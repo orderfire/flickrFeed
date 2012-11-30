@@ -1,4 +1,0 @@
-flickrFeed
-==========
-
-flickrFeed
